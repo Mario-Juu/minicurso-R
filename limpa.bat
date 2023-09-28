@@ -1,0 +1,9 @@
+@echo off
+del *.aux
+del *.bbl
+del *.blg
+del *.log
+del *.nlo
+del *.out
+del *.toc
+del *.gz
